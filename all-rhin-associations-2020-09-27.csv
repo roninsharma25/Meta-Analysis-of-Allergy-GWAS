@@ -1,0 +1,385 @@
+﻿"Variant and risk allele",P-value,"P-value annotation",RAF,OR,Beta,CI,"Mapped gene","Reported trait",Trait(s),"Study accession",Location
+rs2155219-<b>T</b>,"1 x 10-8",,0.47,1.22,'-,[1.14-1.31],"EMSY, AP001189.2","IgE grass sensitization","seasonal allergic rhinitis",GCST001303,11:76588150
+rs17513503-<b>G</b>,"1 x 10-8",,0.09,1.39,'-,[1.24-1.56],"SLC25A46, AC008782.1","IgE grass sensitization","seasonal allergic rhinitis",GCST001303,5:110810746
+rs2069772-<b>C</b>,"1 x 10-6",,0.30,1.19,'-,[1.11-1.28],IL2,"IgE grass sensitization","seasonal allergic rhinitis",GCST001303,4:122451978
+rs631208-<b>A</b>,"2 x 10-6",,0.60,1.18,'-,[1.10-1.26],"LINC02177, RPL21P119","IgE grass sensitization","seasonal allergic rhinitis",GCST001303,16:9305867
+rs6673480-<b>T</b>,"2 x 10-6",,0.07,1.35,'-,[1.19-1.52],EPS15,"IgE grass sensitization","seasonal allergic rhinitis",GCST001303,1:51393570
+rs6554809-<b>C</b>,"3 x 10-6",,0.84,1.29,'-,[1.16-1.43],DNAH5,"IgE grass sensitization","seasonal allergic rhinitis",GCST001303,5:13740867
+rs7617456-<b>G</b>,"3 x 10-6",,0.59,1.18,'-,[1.10-1.26],"NPHP3-AS1, AC079942.1","IgE grass sensitization","seasonal allergic rhinitis",GCST001303,3:133009059
+rs1325195-<b>A</b>,"5 x 10-6",,0.59,1.17,'-,[1.10-1.26],ABL2,"IgE grass sensitization","seasonal allergic rhinitis",GCST001303,1:179102621
+rs1044573-<b>A</b>,"1 x 10-6",,0.51,1.15,'-,[1.09-1.21],ENTPD6,"Allergic rhinitis","seasonal allergic rhinitis",GCST001310,20:25226018
+rs6898653-<b>G</b>,"1 x 10-6",,0.22,1.23,'-,[1.13-1.34],"SEMA6A-AS2, RPS17P2","Allergic rhinitis","seasonal allergic rhinitis",GCST001310,5:116639960
+rs887864-<b>A</b>,"1 x 10-6",,0.63,1.16,'-,[1.09-1.23],CLEC16A,"Allergic rhinitis","seasonal allergic rhinitis",GCST001310,16:11065028
+rs2155219-<b>T</b>,"4 x 10-8",,0.47,1.17,'-,[1.11-1.24],"EMSY, AP001189.2","Allergic rhinitis","seasonal allergic rhinitis",GCST001310,11:76588150
+rs17513503-<b>G</b>,"7 x 10-7",,0.09,1.28,'-,[1.16-1.41],"SLC25A46, AC008782.1","Allergic rhinitis","seasonal allergic rhinitis",GCST001310,5:110810746
+rs216518-<b>A</b>,"2 x 10-6",,0.15,1.21,'-,[1.12-1.31],"AL157756.1, RPL17P2","Allergic rhinitis","seasonal allergic rhinitis",GCST001310,14:60216712
+rs6586513-<b>C</b>,"4 x 10-6",,0.29,1.24,'-,[1.13-1.36],CROCC,"Allergic rhinitis","seasonal allergic rhinitis",GCST001310,1:16889836
+rs1898671-<b>T</b>,"5 x 10-6",,0.35,1.15,'-,[1.08-1.22],TSLP,"Allergic rhinitis","seasonal allergic rhinitis",GCST001310,5:111072304
+rs4724100-<b>C</b>,"2 x 10-6",,0.45,1.14,'-,[1.08-1.21],GLI3,"Allergic rhinitis","seasonal allergic rhinitis",GCST001310,7:42225080
+rs7775228-<b>C</b>,"2 x 10-9",,0.13,1.33,'-,[1.21-1.45],"MTCO3P1, HLA-DQB1","IgE grass sensitization","seasonal allergic rhinitis",GCST001303,6:32690302
+rs9273373-<b>G</b>,"4 x 10-14",,0.54,1.24,'-,[1.17-1.30],"HLA-DQB1, HLA-DQA1","Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,6:32658824
+rs4833095-<b>T</b>,"5 x 10-12",,0.74,1.2,'-,[1.14-1.26],TLR1,"Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,4:38798089
+rs1438673-<b>C</b>,"3 x 10-11",,0.49,1.16,'-,[1.11-1.21],"AC010468.2, WDR36","Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,5:111131801
+rs10197862-<b>A</b>,"4 x 10-11",,0.85,1.24,'-,[1.16-1.32],"IL18R1, IL1RL1","Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,2:102350089
+rs7212938-<b>G</b>,"4 x 10-10",,0.46,1.16,'-,[1.11-1.20],GSDMA,"Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,17:39966427
+rs1837253-<b>C</b>,"1 x 10-9",,0.71,1.17,'-,[1.12-1.24],"TSLP, AC010395.1","Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,5:111066174
+rs72699186-<b>T</b>,"2 x 10-9",,0.15,1.26,'-,[1.16-1.35],"AL162384.1, GTF3AP1","Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,9:6175855
+rs17294280-<b>G</b>,"4 x 10-9",,0.23,1.18,'-,[1.11-1.25],SMAD3,"Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,15:67175947
+rs7009110-<b>T</b>,"4 x 10-9",,0.36,1.14,'-,[1.09-1.19],AC034114.2,"Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,8:80379644
+rs62026376-<b>C</b>,"1 x 10-8",,0.72,1.17,'-,[1.11-1.24],CLEC16A,"Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,16:11134855
+rs3853750-<b>C</b>,"2 x 10-7",,'-,1.1533,'-,[1.1-1.21],"SLC25A46, AC008782.1","Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,5:110818610
+rs11049300-<b>G</b>,"3 x 10-7",,'-,1.4144,'-,[1.28-1.55],"CCDC91, PTHLH","Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,12:28042192
+rs12450323-<b>T</b>,"4 x 10-7",,'-,1.16,'-,[1.1-1.22],IKZF3,"Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,17:39816455
+rs6982751-<b>G</b>,"4 x 10-7",,'-,1.1878,'-,[1.12-1.25],XKR6,"Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,8:10955964
+rs41295115-<b>C</b>,"5 x 10-7",,'-,1.2769,'-,[1.18-1.37],"RBM17, RPL32P23","Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,10:6082658
+rs72766477-<b>A</b>,"5 x 10-7",,'-,1.3402,'-,[1.23-1.45],"PPIAP79, EDIL3-DT","Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,5:84611411
+rs76043829-<b>A</b>,"6 x 10-7",,'-,1.2133,'-,[1.14-1.29],TNS1,"Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,2:217812863
+rs7521681-<b>A</b>,"7 x 10-7",,'-,1.1491,'-,[1.09-1.2],VAV3,"Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,1:107779913
+rs6517368-<b>C</b>,"2 x 10-6",,'-,1.1201,'-,[1.07-1.17],AP000696.1,"Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,21:36635645
+rs17605016-<b>G</b>,"2 x 10-6",,'-,1.1878,'-,[1.12-1.26],TAFA2,"Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,12:61856639
+rs343496-<b>T</b>,"2 x 10-6",,'-,1.1351,'-,[1.08-1.19],"AL162384.1, GTF3AP1","Asthma and hay fever","seasonal allergic rhinitis, asthma",GCST002322,9:6068077
+rs566750-<b>?</b>,"3 x 10-6",,NR,'-,"0.67 unit increase",NR,C5orf66,"Allergic rhinitis x sex interaction","sex interaction measurement, allergic rhinitis",GCST008138,5:135149595
+rs34416364-<b>G</b>,"8 x 10-9",,0.90442,1.0608954,'-,[1.04-1.08],"MUC22, HCG22","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:31035692
+rs16858573-<b>T</b>,"9 x 10-11",,0.8752,1.0607829,'-,[1.04-1.08],ARHGAP15,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,2:143118156
+rs4921290-<b>A</b>,"1 x 10-16",,0.7659,1.0602206,'-,[1.05-1.07],MIR3142HG,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,5:160487233
+rs1214598-<b>G</b>,"6 x 10-21",,0.6147,1.0594343,'-,[1.05-1.07],"CD247, AL359962.3","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,1:167457187
+rs6496676-<b>A</b>,"3 x 10-18",,0.6894,1.0586492,'-,[1.05-1.07],IQGAP1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,15:90445152
+rs6066184-<b>C</b>,"7 x 10-16",,0.7448,1.0574179,'-,[1.04-1.07],EYA2,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,20:47055837
+rs2516466-<b>G</b>,"4 x 10-20",,0.5538,1.0564125,'-,[1.04-1.07],"LINC01149, AL645933.5","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:31446550
+rs12343737-<b>C</b>,"2 x 10-8",,0.8958,1.0564125,'-,[1.04-1.08],"TNC, DELEC1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,9:115041748
+rs905670-<b>G</b>,"5 x 10-18",,0.648,1.055409,'-,[1.04-1.07],BACH2,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:90248783
+rs130071-<b>G</b>,"3 x 10-16",,0.7038,1.0548522,'-,[1.04-1.07],CCHCR1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:31148433
+rs61907713-<b>G</b>,"4 x 10-13",,0.7809,1.0538518,'-,[1.04-1.07],"LINC02098, ETS1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,11:128293212
+rs1201113-<b>G</b>,"1 x 10-8",,0.8786,1.0537407,'-,[1.04-1.07],TNFRSF8,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,1:12084377
+rs11255938-<b>C</b>,"4 x 10-18",,0.5454,1.0535188,'-,[1.04-1.07],"AL355333.1, LINC02676","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,10:8808772
+rs4616071-<b>C</b>,"2 x 10-14",,0.7315,1.0529641,'-,[1.04-1.07],"LAYN, SIK2","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,11:111570140
+rs12365699-<b>G</b>,"3 x 10-10",,0.8349,1.05241,'-,[1.04-1.07],"AP004609.1, CXCR5","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,11:118872577
+rs7714574-<b>T</b>,"5 x 10-17",,0.6032,1.0522993,'-,[1.04-1.06],AC114977.1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,5:40492553
+rs59183580-<b>A</b>,"2 x 10-8",,0.8707,1.0513036,'-,[1.03-1.07],AP000820.2,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,11:95692306
+rs479844-<b>G</b>,"6 x 10-17",,0.5547,1.0511931,'-,[1.04-1.06],"AP5B1, OVOL1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,11:65784486
+rs3128967-<b>T</b>,"2 x 10-12",,0.90959,1.0504202,'-,[1.04-1.06],HLA-DPB1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:33088320
+rs1998266-<b>C</b>,"2 x 10-8",,0.8611,1.0500892,'-,[1.03-1.07],ETV7-AS1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:36390512
+rs3787100-<b>G</b>,"2 x 10-12",,0.7549,1.049979,'-,[1.04-1.06],"RTEL1, RTEL1-TNFRSF6B","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,20:63675057
+rs653178-<b>T</b>,"1 x 10-15",,0.5173,1.0485477,'-,[1.04-1.06],ATXN2,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,12:111569952
+rs2621363-<b>T</b>,"8 x 10-13",,0.7091,1.0481081,'-,[1.04-1.06],"HLA-DQB2, HLA-DOB","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:32801612
+rs12440045-<b>C</b>,"7 x 10-14",,0.5279,1.0465724,'-,[1.03-1.06],"RTF1, ITPKA","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,15:41490486
+rs9247-<b>C</b>,"3 x 10-9",,0.8088,1.0461345,'-,[1.03-1.06],INPP5D,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,2:233204655
+rs9494883-<b>A</b>,"1 x 10-10",,0.96875,1.1196954,'-,[1.08-1.16],WAKMAR2,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:137850329
+rs117710327-<b>C</b>,"4 x 10-18",,0.93779,1.116196,'-,[1.09-1.14],"SLC7A10, AC008738.6","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,19:33235672
+rs74060469-<b>C</b>,"5 x 10-12",,0.96116,1.1150758,'-,[1.08-1.15],RUNX3,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,1:24907665
+rs62379371-<b>G</b>,"6 x 10-14",,0.95319,1.1135857,'-,[1.08-1.14],"TCF7, AC008608.1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,5:134103583
+rs62404084-<b>C</b>,"1 x 10-43",,0.8069,1.1116052,'-,[1.1-1.13],HLA-DQA1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:32635544
+rs34290285-<b>G</b>,"2 x 10-51",,0.7452,1.1095084,'-,[1.1-1.12],D2HGDH,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,2:241759225
+rs3024971-<b>T</b>,"7 x 10-25",,0.893,1.10595,'-,[1.09-1.13],STAT6,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,12:57099944
+rs6881270-<b>C</b>,"1 x 10-48",,0.7254,1.1035092,'-,[1.09-1.12],IL7R,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,5:35878993
+rs28407950-<b>C</b>,"7 x 10-45",,0.7564,1.1032656,'-,[1.09-1.12],"HLA-DQB1, HLA-DQA1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:32658571
+rs1438673-<b>C</b>,"2 x 10-58",,0.5166,1.1007154,'-,[1.09-1.11],"AC010468.2, WDR36","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,5:111131801
+rs12935657-<b>G</b>,"1 x 10-38",,0.7558,1.0955303,'-,[1.08-1.11],CLEC16A,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,16:11125184
+rs10519068-<b>G</b>,"2 x 10-20",,0.8722,1.0868385,'-,[1.07-1.11],RORA,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,15:60776505
+rs4845604-<b>G</b>,"5 x 10-21",,0.8595,1.0864842,'-,[1.07-1.1],RORC,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,1:151829204
+rs9276643-<b>C</b>,"8 x 10-12",,0.6647,1.0858942,'-,[1.06-1.11],"HLA-DQB2, HLA-DOB","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:32777057
+rs186856025-<b>C</b>,"5 x 10-17",,0.8923,1.0847163,'-,[1.07-1.1],"LINC00709, AC044784.1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,10:9001494
+rs11539209-<b>T</b>,"7 x 10-13",,0.92036,1.0828371,'-,[1.06-1.11],ZDHHC12,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,9:128721272
+rs509399-<b>C</b>,"2 x 10-11",,0.92476,1.079797,'-,[1.06-1.1],LINC01991,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,3:187963924
+rs7749543-<b>G</b>,"8 x 10-10",,0.6269,1.0775862,'-,[1.05-1.1],"HLA-DQB2, HLA-DOB","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:32783639
+rs891058-<b>G</b>,"2 x 10-27",,0.7053,1.0738832,'-,[1.06-1.09],LINC00299,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,2:8302417
+rs3918226-<b>C</b>,"6 x 10-10",,0.9224,1.0728463,'-,[1.05-1.1],NOS3,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,7:150993088
+rs4916533-<b>C</b>,"6 x 10-10",,0.91931,1.0707784,'-,[1.05-1.09],"NRROS, PIGX","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,3:196646711
+rs7221109-<b>C</b>,"6 x 10-25",,0.6494,1.0665529,'-,[1.05-1.08],"AC004585.2, SMARCE1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,17:40614034
+rs10910095-<b>G</b>,"4 x 10-13",,0.8659,1.0658708,'-,[1.05-1.08],"AL139246.2, AL139246.3","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,1:2579316
+rs1837253-<b>C</b>,"3 x 10-19",,0.7398,1.0629252,'-,[1.05-1.08],"TSLP, AC010395.1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,5:111066174
+rs9986945-<b>G</b>,"2 x 10-10",,0.883,1.0612332,'-,[1.04-1.08],AC024028.1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,7:3113539
+rs4648883-<b>C</b>,"2 x 10-13",,0.5803,1.0454783,'-,[1.03-1.06],RUNX3,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,1:24934712
+rs9816071-<b>T</b>,"1 x 10-13",,0.5205,1.0450413,'-,[1.03-1.06],SLC15A2,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,3:121921471
+rs7989041-<b>T</b>,"2 x 10-12",,0.6506,1.0449321,'-,[1.03-1.06],"KLF5, PSMD10P3","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,13:73053538
+rs10909912-<b>T</b>,"2 x 10-8",,0.8102,1.0440594,'-,[1.03-1.06],PRDM16,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,1:3258807
+rs301806-<b>T</b>,"1 x 10-12",,0.5842,1.0439503,'-,[1.03-1.06],RERE,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,1:8422018
+rs1260294-<b>T</b>,"2 x 10-8",,0.8004,1.0430791,'-,[1.03-1.06],PITPNM2,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,12:123075742
+rs2396497-<b>C</b>,"1 x 10-9",,0.7581,1.0430791,'-,[1.03-1.06],"TDGF1P2, CCL20","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,2:227859423
+rs9442514-<b>G</b>,"1 x 10-9",,0.739,1.0429703,'-,[1.03-1.06],SPSB1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,1:9295877
+rs12623041-<b>C</b>,"1 x 10-10",,0.6802,1.0421009,'-,[1.03-1.05],"SOCAR, MIR4435-2HG, AC017002.4, AC017002.3","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,2:111505565
+rs11717778-<b>G</b>,"6 x 10-11",,0.6585,1.0418837,'-,[1.03-1.05],"CD200R1L, CD200R1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,3:112853801
+rs249677-<b>A</b>,"6 x 10-11",,0.6331,1.0413413,'-,[1.03-1.05],"NDFIP1, AC091825.3","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,5:142159774
+rs28749131-<b>G</b>,"2 x 10-10",,0.6706,1.041016,'-,[1.03-1.05],"HLA-U, HLA-A","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:29940118
+rs1330303-<b>C</b>,"5 x 10-10",,0.6461,1.0396092,'-,[1.03-1.05],BNC2,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,9:16715828
+rs61192126-<b>T</b>,"8 x 10-9",,0.709,1.0390689,'-,[1.03-1.05],"AC134508.1, RYBP","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,3:72345701
+rs343478-<b>G</b>,"3 x 10-10",,0.5549,1.038961,'-,[1.03-1.05],AL162384.1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,9:6051399
+rs4771332-<b>C</b>,"6 x 10-9",,0.6868,1.0384216,'-,[1.03-1.05],"AL136961.1, CCR12P","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,13:99418203
+rs3828794-<b>G</b>,"1 x 10-9",,0.5206,1.0380982,'-,[1.03-1.05],HLA-DQB1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:32668126
+rs4381563-<b>T</b>,"3 x 10-9",,0.6665,1.0380982,'-,[1.03-1.05],PPCDC,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,15:75108438
+rs1143633-<b>C</b>,"8 x 10-9",,0.6486,1.0373445,'-,[1.03-1.05],IL1B,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,2:112832890
+rs10501149-<b>G</b>,"2 x 10-8",,0.6842,1.0364842,'-,[1.02-1.05],PRR5L,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,11:36354471
+rs8086340-<b>G</b>,"3 x 10-9",,0.5355,1.0363768,'-,[1.02-1.05],TNFRSF11A,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,18:62339745
+rs13405815-<b>C</b>,"3 x 10-9",,0.5362,1.036162,'-,[1.02-1.05],FOSL2,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,2:28406043
+rs9272545-<b>T</b>,"1 x 10-8",,0.6122,1.0357327,'-,[1.02-1.05],HLA-DQA1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:32639108
+rs7240948-<b>C</b>,"7 x 10-9",,0.6013,1.0357327,'-,[1.02-1.05],STARD6,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,18:54338086
+rs6479828-<b>A</b>,"9 x 10-9",,0.592,1.0356256,'-,[1.02-1.05],"AC067752.1, AC024598.1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,10:62615590
+rs707954-<b>A</b>,"1 x 10-13",,0.3039,1.062,'-,[1.046-1.078],HLA-DRB1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:32581724
+rs2422254-<b>T</b>,"1 x 10-9",,0.09283,1.065,'-,[1.044-1.086],AL031599.1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,1:172810693
+rs9271701-<b>T</b>,"2 x 10-17",,0.1795,1.067,'-,[1.051-1.082],"HLA-DRB1, HLA-DQA1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:32625422
+rs77665773-<b>T</b>,"1 x 10-8",,0.05889,1.074,'-,[1.049-1.1],"OTULIN, ANKH","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,5:14700894
+rs17293632-<b>T</b>,"6 x 10-25",,0.2372,1.074,'-,[1.06-1.088],SMAD3,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,15:67150258
+rs13020553-<b>G</b>,"2 x 10-33",,0.3884,1.076,'-,[1.064-1.088],"IL1RL1, IL18R1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,2:102315366
+rs1444789-<b>C</b>,"7 x 10-22",,0.1849,1.076,'-,[1.06-1.091],"AC044784.1, LINC00709","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,10:9022398
+rs62623446-<b>T</b>,"1 x 10-11",,0.07213,1.08,'-,[1.057-1.103],TESPA1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,12:54974507
+rs17454584-<b>G</b>,"2 x 10-30",,0.2184,1.085,'-,[1.07-1.099],"IL2, ADAD1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,4:122432277
+rs144829310-<b>T</b>,"4 x 10-25",,0.1623,1.086,'-,[1.07-1.102],"IL33, GTF3AP1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,9:6208030
+rs981625-<b>G</b>,"9 x 10-13",,0.06511,1.088,'-,[1.064-1.113],LINC00393,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,13:73465798
+rs45613035-<b>C</b>,"6 x 10-20",,0.09838,1.094,'-,[1.074-1.115],KIAA1109,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,4:122219915
+rs2390314-<b>A</b>,"8 x 10-15",,0.06907,1.094,'-,[1.071-1.118],"ITGB8, EEF1A1P27","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,7:20416355
+rs380852-<b>T</b>,"7 x 10-15",,0.05472,1.107,'-,[1.08-1.135],HLA-B,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:31336711
+rs7936312-<b>T</b>,"4 x 10-70",,0.4769,1.111,'-,[1.098-1.123],"AP001189.2, EMSY","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,11:76582682
+rs61839660-<b>T</b>,"1 x 10-32",,0.09897,1.123,'-,[1.103-1.144],IL2RA,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,10:6052734
+rs17142799-<b>T</b>,"6 x 10-12",,0.02657,1.132,'-,[1.094-1.171],ITGB8,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,7:20404337
+rs7728912-<b>C</b>,"5 x 10-52",,0.1461,1.134,'-,[1.116-1.152],"SLC25A46, AC008782.1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,5:110812772
+rs61815559-<b>T</b>,"3 x 10-19",,0.03183,1.16,'-,[1.125-1.197],FLG-AS1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,1:152298743
+rs12122629-<b>C</b>,"8 x 10-25",,0.04184,1.16,'-,[1.129-1.192],"TCHHL1, TCHH","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,1:152101640
+rs55646091-<b>A</b>,"5 x 10-32",,0.04826,1.173,'-,[1.144-1.204],"EMSY, AP001189.2","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,11:76588387
+rs112401631-<b>A</b>,"1 x 10-43",,0.01884,1.336,'-,[1.284-1.39],"AC004585.2, SMARCE1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,17:40608272
+rs7728912-<b>C</b>,"5 x 10-26",,0.1473,1.175,'-,[1.141-1.209],"SLC25A46, AC008782.1","Allergic rhinitis","allergic rhinitis",GCST009719,5:110812772
+rs112401631-<b>A</b>,"3 x 10-17",,0.01598,1.378,'-,[1.283-1.48],"AC004585.2, SMARCE1","Allergic rhinitis","allergic rhinitis",GCST009719,17:40608272
+rs12722502-<b>C</b>,"3 x 10-18",,0.9827,1.2312238,'-,[1.18-1.29],IL2RA,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,10:6051176
+rs143021546-<b>G</b>,"3 x 10-10",,0.98377,1.2528188,'-,[1.17-1.34],IL4R,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,16:27337163
+rs72782675-<b>C</b>,"2 x 10-9",,0.98955,1.198897,'-,[1.13-1.27],"LINC00709, AC044784.1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,10:8986983
+rs147725790-<b>T</b>,"2 x 10-12",,0.98229,1.1804981,'-,[1.13-1.23],"HLA-DMB, AL645941.2","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:32940196
+rs72823641-<b>T</b>,"1 x 10-63",,0.8633,1.1611705,'-,[1.14-1.18],"IL1RL1, IL18R1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,2:102319699
+rs5743604-<b>A</b>,"1 x 10-72",,0.8013,1.1467891,'-,[1.13-1.16],TLR1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,4:38799664
+rs34210653-<b>G</b>,"9 x 10-10",,0.97875,1.1385632,'-,[1.09-1.18],ALOX15,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,17:4632019
+rs34210653-<b>G</b>,"2 x 10-9",,0.97838,1.2914891,'-,[1.19-1.4],ALOX15,"Allergic rhinitis","allergic rhinitis",GCST009719,17:4632019
+rs72823641-<b>T</b>,"2 x 10-25",,0.8651,1.1930327,'-,[1.16-1.23],"IL1RL1, IL18R1","Allergic rhinitis","allergic rhinitis",GCST009719,2:102319699
+rs66819621-<b>A</b>,"2 x 10-25",,0.8428,1.1799409,'-,[1.15-1.22],TLR1,"Allergic rhinitis","allergic rhinitis",GCST009719,4:38817782
+rs34290285-<b>G</b>,"3 x 10-24",,0.7465,1.1422044,'-,[1.11-1.17],D2HGDH,"Allergic rhinitis","allergic rhinitis",GCST009719,2:241759225
+rs34463936-<b>C</b>,"8 x 10-19",,0.7201,1.1184431,'-,[1.09-1.15],"IL7R, AC137810.1","Allergic rhinitis","allergic rhinitis",GCST009719,5:35850047
+rs12935657-<b>G</b>,"8 x 10-15",,0.7569,1.1082788,'-,[1.08-1.14],CLEC16A,"Allergic rhinitis","allergic rhinitis",GCST009719,16:11125184
+rs891058-<b>G</b>,"3 x 10-16",,0.7057,1.1071745,'-,[1.08-1.13],LINC00299,"Allergic rhinitis","allergic rhinitis",GCST009719,2:8302417
+rs4921290-<b>A</b>,"6 x 10-11",,0.7691,1.0915838,'-,[1.06-1.12],MIR3142HG,"Allergic rhinitis","allergic rhinitis",GCST009719,5:160487233
+rs6094570-<b>A</b>,"5 x 10-11",,0.7412,1.0893246,'-,[1.06-1.12],EYA2,"Allergic rhinitis","allergic rhinitis",GCST009719,20:47053702
+rs12920150-<b>T</b>,"4 x 10-9",,0.7609,1.0813149,'-,[1.05-1.11],AC044798.3,"Allergic rhinitis","allergic rhinitis",GCST009719,16:49203127
+rs962993-<b>C</b>,"6 x 10-11",,0.5797,1.0770059,'-,[1.05-1.1],"AC044784.1, LINC00709","Allergic rhinitis","allergic rhinitis",GCST009719,10:9011169
+rs2988277-<b>C</b>,"3 x 10-10",,0.6016,1.0750376,'-,[1.05-1.1],CD247,"Allergic rhinitis","allergic rhinitis",GCST009719,1:167462115
+rs6738825-<b>A</b>,"2 x 10-10",,0.502,1.0734221,'-,[1.05-1.1],PLCL1,"Allergic rhinitis","allergic rhinitis",GCST009719,2:198032171
+rs597808-<b>G</b>,"2 x 10-8",,0.5183,1.0649627,'-,[1.04-1.09],ATXN2,"Allergic rhinitis","allergic rhinitis",GCST009719,12:111535554
+rs491087-<b>A</b>,"2 x 10-8",,0.3366,1.068,'-,[1.045-1.092],"AC068295.1, AC108681.1","Allergic rhinitis","allergic rhinitis",GCST009719,3:187918378
+rs2640564-<b>T</b>,"1 x 10-9",,0.3439,1.074,'-,[1.051-1.098],"ERBB3, RPS26","Allergic rhinitis","allergic rhinitis",GCST009719,12:56061510
+rs1555926-<b>C</b>,"2 x 10-8",,0.2054,1.079,'-,[1.052-1.107],"ZNF217, AL157838.1","Allergic rhinitis","allergic rhinitis",GCST009719,20:53568405
+rs2070901-<b>T</b>,"4 x 10-10",,0.2697,1.081,'-,[1.056-1.107],FCER1G,"Allergic rhinitis","allergic rhinitis",GCST009719,1:161215268
+rs2601191-<b>T</b>,"6 x 10-12",,0.4651,1.08,'-,[1.057-1.103],IQGAP1,"Allergic rhinitis","allergic rhinitis",GCST009719,15:90392993
+rs1904522-<b>A</b>,"5 x 10-15",,0.3326,1.096,'-,[1.072-1.121],ADAD1,"Allergic rhinitis","allergic rhinitis",GCST009719,4:122415763
+rs17293632-<b>T</b>,"9 x 10-16",,0.237,1.109,'-,[1.082-1.136],SMAD3,"Allergic rhinitis","allergic rhinitis",GCST009719,15:67150258
+rs7848215-<b>T</b>,"5 x 10-18",,0.255,1.116,'-,[1.09-1.143],"GTF3AP1, IL33","Allergic rhinitis","allergic rhinitis",GCST009719,9:6213468
+rs7744020-<b>A</b>,"4 x 10-25",,0.3071,1.131,'-,[1.106-1.157],"HLA-DQA1, HLA-DQB1","Allergic rhinitis","allergic rhinitis",GCST009719,6:32658353
+rs11236797-<b>A</b>,"5 x 10-32",,0.4505,1.141,'-,[1.117-1.165],"AP001189.2, EMSY","Allergic rhinitis","allergic rhinitis",GCST009719,11:76588605
+rs79180837-<b>A</b>,"7 x 10-9",,0.0268,1.209,'-,[1.137-1.286],ITGB8,"Allergic rhinitis","allergic rhinitis",GCST009719,7:20390052
+rs9297768-<b>A</b>,"2 x 10-11",,0.3335,1.043,'-,[1.031-1.055],"MYC, PVT1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,8:127792134
+rs2228145-<b>C</b>,"7 x 10-13",,0.4108,1.044,'-,[1.032-1.056],IL6R,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,1:154454494
+rs7646283-<b>T</b>,"4 x 10-12",,0.3656,1.044,'-,[1.032-1.056],GLB1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,3:33004988
+rs6986151-<b>C</b>,"6 x 10-9",,0.197,1.044,'-,[1.029-1.058],"AP000424.1, ANKRD46","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,8:100507673
+rs2190097-<b>C</b>,"2 x 10-10",,0.2417,1.045,'-,[1.032-1.059],GSAP,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,7:77409628
+rs7140939-<b>A</b>,"1 x 10-12",,0.3916,1.045,'-,[1.033-1.057],RAD51B,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,14:68293810
+rs12886625-<b>G</b>,"2 x 10-13",,0.4688,1.045,'-,[1.033-1.056],AL132801.2,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,14:102772597
+rs2229768-<b>C</b>,"8 x 10-11",,0.2381,1.046,'-,[1.032-1.059],H4C3,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:26104052
+rs507666-<b>A</b>,"3 x 10-9",,0.1859,1.046,'-,[1.031-1.061],ABO,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,9:133273983
+rs12952581-<b>A</b>,"3 x 10-13",,0.3627,1.046,'-,[1.034-1.058],AC091180.6,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,17:49370984
+rs7601800-<b>T</b>,"4 x 10-13",,0.3283,1.047,'-,[1.034-1.059],"MOB4, HSPE1-MOB4","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,2:197530375
+rs7650683-<b>C</b>,"4 x 10-13",,0.2994,1.048,'-,[1.035-1.06],LPP,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,3:188727995
+rs2070901-<b>T</b>,"7 x 10-13",,0.2699,1.049,'-,[1.036-1.062],FCER1G,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,1:161215268
+rs10912564-<b>T</b>,"2 x 10-13",,0.3047,1.049,'-,[1.036-1.062],TNFSF4,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,1:173201479
+rs3933376-<b>A</b>,"4 x 10-10",,0.1868,1.049,'-,[1.034-1.064],PTPRK,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:127970926
+rs7359623-<b>C</b>,"2 x 10-16",,0.4857,1.05,'-,[1.038-1.062],"ZPBP2, GSDMB","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,17:39893336
+rs906363-<b>C</b>,"4 x 10-9",,0.1459,1.05,'-,[1.033-1.066],"BATF3, LINC02773","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,1:212685455
+rs763342-<b>C</b>,"4 x 10-16",,0.3393,1.052,'-,[1.04-1.064],"AC068295.1, AC108681.1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,3:187921587
+rs113377887-<b>T</b>,"2 x 10-12",,0.2107,1.052,'-,[1.038-1.067],FOXO1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,13:40629228
+rs10244416-<b>C</b>,"1 x 10-18",,0.4879,1.054,'-,[1.042-1.065],"EEF1A1P27, ITGB8","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,7:20536128
+rs20541-<b>A</b>,"5 x 10-13",,0.1799,1.057,'-,[1.041-1.072],"TH2LCRR, IL13","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,5:132660272
+rs1555926-<b>C</b>,"3 x 10-14",,0.2072,1.057,'-,[1.042-1.071],"ZNF217, AL157838.1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,20:53568405
+rs9276796-<b>G</b>,"1 x 10-20",,0.3953,1.058,'-,[1.046-1.07],"HLA-DOB, HLA-DQB2","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:32810645
+rs1689510-<b>C</b>,"2 x 10-19",,0.3398,1.058,'-,[1.045-1.07],SUOX,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,12:56002984
+rs9648346-<b>G</b>,"2 x 10-15",,0.1994,1.06,'-,[1.045-1.074],JAZF1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,7:28120494
+rs3793079-<b>T</b>,"3 x 10-8",,0.6256,1.0347682,'-,[1.02-1.05],MLN,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:33800011
+rs4939490-<b>C</b>,"2 x 10-8",,0.6068,1.0346612,'-,[1.02-1.05],"CD6, AP003721.2","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,11:61026179
+rs2072713-<b>T</b>,"3 x 10-8",,0.5155,1.0341262,'-,[1.02-1.05],CSF2RB,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,22:36923383
+rs10986320-<b>C</b>,"9 x 10-9",,0.3735,1.036,'-,[1.024-1.048],NEK6,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,9:124331623
+rs4076542-<b>A</b>,"2 x 10-8",,0.3335,1.036,'-,[1.023-1.048],"ASCL2, MIR4686","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,11:2215989
+rs1942094-<b>G</b>,"7 x 10-9",,0.3759,1.036,'-,[1.024-1.048],SMAD4,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,18:51074970
+rs60946162-<b>T</b>,"5 x 10-10",,0.4549,1.038,'-,[1.026-1.05],LPP,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,3:188415548
+rs13165038-<b>C</b>,"5 x 10-9",,0.3259,1.038,'-,[1.026-1.051],"IRF1-AS1, AC116366.3","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,5:132477658
+rs6830371-<b>T</b>,"1 x 10-9",,0.3761,1.038,'-,[1.026-1.05],STX18-AS1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,4:4765968
+rs17033015-<b>A</b>,"7 x 10-10",,0.4244,1.038,'-,[1.026-1.05],"NFKB1, MANBA","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,4:102625147
+rs10796303-<b>T</b>,"1 x 10-9",,0.3323,1.039,'-,[1.027-1.051],PRKCQ-AS1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,10:6585738
+rs3813308-<b>G</b>,"2 x 10-10",,0.4352,1.039,'-,[1.027-1.051],TNFAIP8,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,5:119355086
+rs10818483-<b>T</b>,"6 x 10-10",,0.3574,1.039,'-,[1.027-1.051],PHF19,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,9:120888195
+rs2013724-<b>A</b>,"2 x 10-8",,0.2644,1.039,'-,[1.026-1.053],"AL133163.2, AL133163.1","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,14:35387142
+rs10185028-<b>G</b>,"3 x 10-8",,0.227,1.04,'-,[1.026-1.054],REL,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,2:60891604
+rs13185930-<b>A</b>,"1 x 10-8",,0.2467,1.04,'-,[1.026-1.053],"CDC23, GFRA3","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,5:138241824
+rs2746438-<b>T</b>,"6 x 10-11",,0.4445,1.04,'-,[1.028-1.051],AHI1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,6:135396930
+rs4743311-<b>G</b>,"2 x 10-8",,0.2533,1.04,'-,[1.026-1.054],COL15A1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,9:99028596
+rs10468514-<b>G</b>,"1 x 10-10",,0.3984,1.04,'-,[1.028-1.052],"AC003070.2, ARHGAP27","Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,17:45378874
+rs1344674-<b>G</b>,"2 x 10-11",,0.4489,1.041,'-,[1.029-1.053],ZBTB38,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,3:141406344
+rs4739736-<b>A</b>,"1 x 10-10",,0.3478,1.041,'-,[1.028-1.053],AC034114.2,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,8:80365134
+rs2393717-<b>G</b>,"1 x 10-11",,0.4697,1.041,'-,[1.029-1.052],SPPL3,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,12:120782572
+rs7953139-<b>C</b>,"1 x 10-11",,0.4797,1.041,'-,[1.03-1.053],LRRC43,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,12:122177994
+rs12784963-<b>G</b>,"6 x 10-12",,0.4295,1.042,'-,[1.03-1.053],SUFU,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,10:102577229
+rs3116590-<b>G</b>,"1 x 10-8",,0.2145,1.042,'-,[1.028-1.056],DLEU1,"Hay fever and/or eczema","Eczema, allergic rhinitis",GCST009717,13:50234741
+rs12520745-<b>?</b>,"6 x 10-7",(EA),0.17,2.13,'-,[1.3-5.56],LINC02240,"Allergic rhinitis in non-asthmatics","allergic rhinitis",GCST002551,5:125252697
+rs2823053-<b>?</b>,"8 x 10-7",(EA),0.18,1.96,'-,[1.28-4.35],"AF127577.5, AF222684.1","Allergic rhinitis in non-asthmatics","allergic rhinitis",GCST002551,21:15092828
+rs17152484-<b>?</b>,"4 x 10-7",(EA),0.16,2.17,'-,[1.32-6.67],LINC02240,"Allergic rhinitis in non-asthmatics","allergic rhinitis",GCST002551,5:125252465
+rs2606618-<b>T</b>,"4 x 10-7",,0.17,1.6,'-,[1.33-1.92],"RNU1-18P, HMGB3P18","Allergic rhinitis in non-asthmatics","allergic rhinitis",GCST002551,6:122095195
+rs7780001-<b>?</b>,"4 x 10-7",,0.13,1.64,'-,[1.25-2.44],AC007091.1,"Allergic rhinitis in non-asthmatics","allergic rhinitis",GCST002551,7:19438358
+rs2823048-<b>?</b>,"8 x 10-7",(EA),0.19,1.92,'-,[1.28-3.85],"AF222684.1, AF127577.5","Allergic rhinitis in non-asthmatics","allergic rhinitis",GCST002551,21:15089947
+rs2834629-<b>?</b>,"5 x 10-7",(AA),0.12,5.88,'-,[1.16-],LINC01426,"Allergic rhinitis in non-asthmatics","allergic rhinitis",GCST002551,21:34753521
+rs868688-<b>?</b>,"7 x 10-7",(AA),NR,1.89,'-,[1.28-3.57],PRDM16,"Allergic rhinitis","allergic rhinitis",GCST002550,1:3384243
+rs2149039-<b>?</b>,"7 x 10-7",(Latino),NR,1.56,'-,[1.22-2.17],BSND,"Allergic rhinitis","allergic rhinitis",GCST002550,1:55014701
+rs11680788-<b>?</b>,"4 x 10-8",(Latino),NR,2.13,'-,[1.35-5.26],LINC00486,"Allergic rhinitis","allergic rhinitis",GCST002550,2:32834029
+rs11680788-<b>?</b>,"8 x 10-7",,NR,1.72,'-,[1.39-2.13],LINC00486,"Allergic rhinitis","allergic rhinitis",GCST002550,2:32834029
+rs6583203-<b>?</b>,"1 x 10-8",(Latino),NR,1.65,'-,[1.48-1.83],"AL121981.1, AC128709.2","Allergic rhinitis","allergic rhinitis",GCST002550,3:197352715
+rs4713039-<b>?</b>,"6 x 10-7",(Latino),NR,1.57,'-,[1.39-1.75],"SYCP2L, AL024498.2","Allergic rhinitis","allergic rhinitis",GCST002550,6:10906023
+rs6583337-<b>?</b>,"1 x 10-7",(AA),NR,2.17,'-,[1.33-5.56],"AC093627.1, AC215522.1","Allergic rhinitis","allergic rhinitis",GCST002550,7:40483
+rs7780001-<b>?</b>,"2 x 10-8",,NR,1.37,'-,[1.19-1.61],AC007091.1,"Allergic rhinitis","allergic rhinitis",GCST002550,7:19438358
+rs10156309-<b>?</b>,"3 x 10-7",(EA),NR,3.23,'-,[1.33-],NKAIN3,"Allergic rhinitis","allergic rhinitis",GCST002550,8:62520233
+rs10124907-<b>?</b>,"6 x 10-7",(Latino),NR,1.43,'-,[1.19-1.75],"AL353730.1, TUSC1","Allergic rhinitis","allergic rhinitis",GCST002550,9:25659639
+rs1332366-<b>?</b>,"1 x 10-6",(AA),NR,2,'-,[1.28-4.55],"AL158073.1, RNU6-1228P","Allergic rhinitis","allergic rhinitis",GCST002550,9:75217659
+rs2472448-<b>?</b>,"8 x 10-7",(Latino),NR,1.82,'-,[1.27-3.13],ABCA1,"Allergic rhinitis","allergic rhinitis",GCST002550,9:104842226
+rs17133587-<b>?</b>,"5 x 10-9",(Latino),NR,1.8,'-,[1.61-2.00],AC018978.1,"Allergic rhinitis","allergic rhinitis",GCST002550,10:4766883
+rs17133587-<b>?</b>,"1 x 10-6",,NR,1.45,'-,[1.25-1.69],AC018978.1,"Allergic rhinitis","allergic rhinitis",GCST002550,10:4766883
+rs11027293-<b>?</b>,"7 x 10-7",(Latino),NR,3.38,'-,[2.90-3.86],"LINC02726, AC068472.1","Allergic rhinitis","allergic rhinitis",GCST002550,11:23530907
+rs11027293-<b>?</b>,"7 x 10-6",,NR,2.1,'-,[1.52-2.91],"LINC02726, AC068472.1","Allergic rhinitis","allergic rhinitis",GCST002550,11:23530907
+rs1893361-<b>?</b>,"7 x 10-7",(Latino),NR,1.66,'-,[1.46-1.86],"RN7SKP297, CHRDL2","Allergic rhinitis","allergic rhinitis",GCST002550,11:74688380
+rs2884670-<b>?</b>,"2 x 10-7",,NR,1.28,'-,[1.19-1.37],DYRK4,"Allergic rhinitis","allergic rhinitis",GCST002550,12:4566052
+rs1352323-<b>?</b>,"7 x 10-7",(Latino),NR,1.47,'-,[1.32-1.63],ST8SIA2,"Allergic rhinitis","allergic rhinitis",GCST002550,15:92452411
+rs1352323-<b>?</b>,"1 x 10-7",,NR,1.33,'-,[1.23-1.44],ST8SIA2,"Allergic rhinitis","allergic rhinitis",GCST002550,15:92452411
+rs12597084-<b>?</b>,"5 x 10-7",(Latino),NR,1.43,'-,[1.19-1.82],RBFOX1,"Allergic rhinitis","allergic rhinitis",GCST002550,16:5769619
+rs7187423-<b>?</b>,"6 x 10-7",(AA),NR,2.02,'-,[1.75-2.30],FTO,"Allergic rhinitis","allergic rhinitis",GCST002550,16:54056583
+rs2061-<b>?</b>,"9 x 10-7",,NR,2.04,'-,[1.3-4.76],"PMP22, CDRT8","Allergic rhinitis","allergic rhinitis",GCST002550,17:15157487
+rs7237244-<b>?</b>,"4 x 10-7",,NR,1.72,'-,[1.39-2.13],LAMA3,"Allergic rhinitis","allergic rhinitis",GCST002550,18:23850780
+rs12973620-<b>?</b>,"5 x 10-8",(Latino),NR,1.56,'-,[1.40-1.72],AC003006.1,"Allergic rhinitis","allergic rhinitis",GCST002550,19:57738275
+rs7287939-<b>?</b>,"4 x 10-7",(Latino),NR,2.19,'-,[1.89-2.50],"RBX1, AL080243.3","Allergic rhinitis","allergic rhinitis",GCST002550,22:41000349
+rs45599938-<b>A</b>,"1 x 10-29",,0.3341,1.067,'-,[1.056-1.079],"IL21, IL2","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,4:122465565
+rs77665773-<b>T</b>,"3 x 10-10",,0.05889,1.075,'-,[1.052-1.099],"OTULIN, ANKH","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,5:14700894
+rs72743461-<b>A</b>,"5 x 10-37",,0.237,1.084,'-,[1.071-1.097],SMAD3,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,15:67149412
+rs981625-<b>G</b>,"3 x 10-14",,0.06511,1.086,'-,[1.064-1.109],LINC00393,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,13:73465798
+rs144829310-<b>T</b>,"2 x 10-37",,0.1623,1.098,'-,[1.083-1.113],"IL33, GTF3AP1","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,9:6208030
+rs61839660-<b>T</b>,"3 x 10-28",,0.09897,1.104,'-,[1.085-1.123],IL2RA,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,10:6052734
+rs7936312-<b>T</b>,"1 x 10-77",,0.4769,1.107,'-,[1.095-1.118],"AP001189.2, EMSY","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,11:76582682
+rs12122629-<b>C</b>,"1 x 10-24",,0.04184,1.146,'-,[1.118-1.176],"TCHHL1, TCHH","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,1:152101640
+rs112401631-<b>A</b>,"2 x 10-40",,0.01884,1.295,'-,[1.248-1.343],"AC004585.2, SMARCE1","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,17:40608272
+rs72823641-<b>T</b>,"1 x 10-78",,0.8633,1.1645511,'-,[1.15-1.18],"IL1RL1, IL18R1","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,2:102319699
+rs28407950-<b>C</b>,"7 x 10-70",,0.7564,1.1201972,'-,[1.11-1.13],"HLA-DQB1, HLA-DQA1","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,6:32658571
+rs28690449-<b>C</b>,"2 x 10-64",,0.7986,1.1238481,'-,[1.11-1.14],"TLR10, TLR1","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,4:38787511
+rs1438673-<b>C</b>,"7 x 10-62",,0.5166,1.0948106,'-,[1.08-1.11],"AC010468.2, WDR36","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,5:111131801
+rs34290285-<b>G</b>,"6 x 10-58",,0.7452,1.1064395,'-,[1.09-1.12],D2HGDH,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,2:241759225
+rs12935657-<b>G</b>,"6 x 10-45",,0.7558,1.0945709,'-,[1.08-1.11],CLEC16A,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,16:11125184
+rs6881270-<b>C</b>,"3 x 10-44",,0.7254,1.0895619,'-,[1.08-1.1],IL7R,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,5:35878993
+rs1775553-<b>C</b>,"1 x 10-31",,0.5768,1.0666666,'-,[1.06-1.08],"LINC00709, AC044784.1","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,10:9012362
+rs3024971-<b>T</b>,"5 x 10-30",,0.893,1.1072971,'-,[1.09-1.13],STAT6,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,12:57099944
+rs891058-<b>G</b>,"3 x 10-29",,0.7053,1.069862,'-,[1.06-1.08],LINC00299,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,2:8302417
+rs117710327-<b>C</b>,"3 x 10-25",,0.93779,1.1282861,'-,[1.1-1.15],"SLC7A10, AC008738.6","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,19:33235672
+rs1214598-<b>G</b>,"8 x 10-25",,0.6147,1.0596588,'-,[1.05-1.07],"CD247, AL359962.3","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,1:167457187
+rs10519068-<b>G</b>,"3 x 10-24",,0.8722,1.0874293,'-,[1.07-1.1],RORA,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,15:60776505
+rs905670-<b>G</b>,"8 x 10-23",,0.648,1.0577533,'-,[1.05-1.07],BACH2,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,6:90248783
+rs11213941-<b>T</b>,"3 x 10-18",,0.7096,1.0538518,'-,[1.04-1.07],"LAYN, SIK2","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,11:111563369
+rs2961920-<b>A</b>,"3 x 10-17",,0.7653,1.0559661,'-,[1.04-1.07],MIR3142HG,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,5:160484499
+rs479844-<b>G</b>,"3 x 10-17",,0.5547,1.0472301,'-,[1.04-1.06],"AP5B1, OVOL1","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,11:65784486
+rs4648883-<b>C</b>,"4 x 10-16",,0.5803,1.046244,'-,[1.04-1.06],RUNX3,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,1:24934712
+rs7725052-<b>T</b>,"2 x 10-14",,0.6082,1.0435146,'-,[1.03-1.05],"AC114977.1, AC114977.2","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,5:40487168
+rs449454-<b>G</b>,"9 x 10-14",,0.6168,1.0427529,'-,[1.03-1.05],NDFIP1,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,5:142153497
+rs653178-<b>T</b>,"3 x 10-14",,0.5173,1.0423181,'-,[1.03-1.05],ATXN2,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,12:111569952
+rs10910095-<b>G</b>,"4 x 10-13",,0.8659,1.0602206,'-,[1.04-1.08],"AL139246.2, AL139246.3","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,1:2579316
+rs1940377-<b>G</b>,"8 x 10-13",,0.7895,1.0494281,'-,[1.04-1.06],"ETS1, LINC02098","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,11:128261371
+rs3540-<b>G</b>,"2 x 10-13",,0.6767,1.0441684,'-,[1.03-1.06],IQGAP1,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,15:90502176
+rs4491851-<b>A</b>,"1 x 10-13",,0.5336,1.0417751,'-,[1.03-1.05],GLB1,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,3:33042493
+rs12440045-<b>C</b>,"2 x 10-13",,0.5279,1.0416667,'-,[1.03-1.05],"RTF1, ITPKA","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,15:41490486
+rs113048054-<b>A</b>,"4 x 10-12",,0.93413,1.080497,'-,[1.06-1.1],"LINC01063, AC092933.2","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,3:196616946
+rs2689282-<b>C</b>,"5 x 10-12",,0.5203,1.0383137,'-,[1.03-1.05],SLC15A2,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,3:121918956
+rs9494883-<b>A</b>,"1 x 10-11",,0.96875,1.1149515,'-,[1.08-1.15],WAKMAR2,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,6:137850329
+rs6011033-<b>G</b>,"1 x 10-11",,0.7682,1.0454783,'-,[1.03-1.06],"RTEL1, RTEL1-TNFRSF6B","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,20:63691346
+rs2139049-<b>G</b>,"2 x 10-11",,0.5012,1.0373445,'-,[1.03-1.05],PLCL1,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,2:198022936
+rs34210653-<b>G</b>,"2 x 10-10",,0.97875,1.1309658,'-,[1.09-1.17],ALOX15,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,17:4632019
+rs16858573-<b>T</b>,"2 x 10-10",,0.8752,1.0546298,'-,[1.04-1.07],ARHGAP15,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,2:143118156
+rs11685995-<b>C</b>,"2 x 10-10",,0.758,1.0415581,'-,[1.03-1.05],"CCL20, TDGF1P2","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,2:227857292
+rs61192126-<b>T</b>,"9 x 10-10",,0.709,1.0379905,'-,[1.03-1.05],"AC134508.1, RYBP","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,3:72345701
+rs7240948-<b>C</b>,"3 x 10-10",,0.6013,1.03584,'-,[1.03-1.05],STARD6,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,18:54338086
+rs6021268-<b>T</b>,"2 x 10-9",,0.93884,1.0715816,'-,[1.05-1.1],NFATC2,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,20:51524602
+rs59183580-<b>A</b>,"2 x 10-9",,0.8707,1.0503098,'-,[1.03-1.07],AP000820.2,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,11:95692306
+rs12365699-<b>G</b>,"1 x 10-9",,0.8349,1.0459157,'-,[1.03-1.06],"AP004609.1, CXCR5","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,11:118872577
+rs12623041-<b>C</b>,"1 x 10-9",,0.6802,1.0364842,'-,[1.03-1.05],"SOCAR, MIR4435-2HG, AC017002.4, AC017002.3","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,2:111505565
+rs1143633-<b>C</b>,"1 x 10-9",,0.6486,1.0362694,'-,[1.03-1.05],IL1B,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,2:112832890
+rs230504-<b>C</b>,"2 x 10-9",,0.6437,1.0349823,'-,[1.02-1.05],NFKB1,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,4:102560404
+rs8086340-<b>G</b>,"7 x 10-9",,0.5355,1.032418,'-,[1.02-1.04],TNFRSF11A,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,18:62339745
+rs697852-<b>?</b>,"7 x 10-8",,NR,1.0416667,'-,NR,ITPKB,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,1:226727033
+rs3787184-<b>?</b>,"8 x 10-8",,NR,1.0386373,'-,NR,NFATC2,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,20:51541298
+rs2013724-<b>?</b>,"1 x 10-8",,NR,'-,'-,NR,"AL133163.2, AL133163.1","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,14:35387142
+rs1057258-<b>?</b>,"3 x 10-7",,NR,1.0309278,'-,NR,INPP5D,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,2:233206983
+rs13088318-<b>?</b>,"9 x 10-6",,NR,1.0204082,'-,NR,"FAM172BP, TRMT10C","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,3:101523907
+rs13153019-<b>C</b>,"3 x 10-6",,NR,1.029,'-,NR,"LMAN2, RGS14","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,5:177355217
+rs16922576-<b>C</b>,"1 x 10-7",,NR,1.032,'-,NR,JAK2,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,9:5064193
+rs7632381-<b>C</b>,"3 x 10-10",,0.4475,1.035,'-,[1.024-1.046],ZBTB38,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,3:141387221
+rs6446685-<b>A</b>,"1 x 10-9",,0.3759,1.035,'-,[1.024-1.046],STX18-AS1,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,4:4764538
+rs10883723-<b>C</b>,"1 x 10-9",,0.3586,1.035,'-,[1.024-1.046],"ACTR1A, MFSD13A","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,10:102466075
+rs10995245-<b>A</b>,"2 x 10-9",,0.3471,1.035,'-,[1.024-1.046],"AC024598.1, AC067752.1","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,10:62631615
+rs7953139-<b>C</b>,"8 x 10-11",,0.4797,1.036,'-,[1.025-1.046],LRRC43,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,12:122177994
+rs10468514-<b>G</b>,"6 x 10-11",,0.3984,1.037,'-,[1.026-1.047],"AC003070.2, ARHGAP27","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,17:45378874
+rs2393717-<b>G</b>,"8 x 10-12",,0.4697,1.038,'-,[1.027-1.048],SPPL3,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,12:120782572
+rs3813308-<b>G</b>,"1 x 10-11",,0.4352,1.038,'-,[1.028-1.049],TNFAIP8,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,5:119355086
+rs2228145-<b>C</b>,"1 x 10-12",,0.4108,1.04,'-,[1.03-1.051],IL6R,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,1:154454494
+rs12165508-<b>T</b>,"2 x 10-9",,0.2045,1.041,'-,[1.028-1.054],"TEF, AL008582.1","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,22:41423956
+rs2070901-<b>T</b>,"6 x 10-12",,0.2699,1.043,'-,[1.031-1.056],FCER1G,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,1:161215268
+rs2190097-<b>C</b>,"3 x 10-11",,0.2417,1.043,'-,[1.031-1.056],GSAP,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,7:77409628
+rs3933376-<b>A</b>,"9 x 10-10",,0.1868,1.044,'-,[1.031-1.058],PTPRK,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,6:127970926
+rs10912564-<b>T</b>,"1 x 10-13",,0.3047,1.045,'-,[1.033-1.057],TNFSF4,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,1:173201479
+rs13277355-<b>A</b>,"6 x 10-13",,0.2728,1.045,'-,[1.033-1.057],"MYC, PVT1","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,8:127765473
+rs1950897-<b>C</b>,"3 x 10-13",,0.2869,1.045,'-,[1.033-1.057],RAD51B,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,14:68293424
+rs6473228-<b>G</b>,"2 x 10-15",,0.3652,1.046,'-,[1.035-1.057],AC034114.2,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,8:80387531
+rs9549238-<b>A</b>,"1 x 10-11",,0.2128,1.046,'-,[1.033-1.059],"FOXO1, AL133318.1","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,13:40605184
+rs12952581-<b>A</b>,"5 x 10-16",,0.3627,1.047,'-,[1.036-1.059],AC091180.6,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,17:49370984
+rs9290877-<b>C</b>,"2 x 10-15",,0.3016,1.048,'-,[1.036-1.059],LPP,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,3:188724692
+rs7650683-<b>C</b>,"2 x 10-15",,0.2994,1.048,'-,[1.036-1.06],LPP,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,3:188727995
+rs12887759-<b>A</b>,"1 x 10-12",,0.2176,1.048,'-,[1.035-1.061],AL132801.2,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,14:102772514
+rs8126516-<b>A</b>,"1 x 10-9",,0.1445,1.048,'-,[1.033-1.063],RUNX1,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,21:35080321
+rs10244416-<b>C</b>,"2 x 10-20",,0.4879,1.052,'-,[1.041-1.063],"EEF1A1P27, ITGB8","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,7:20536128
+rs4722758-<b>G</b>,"2 x 10-16",,0.1992,1.057,'-,[1.043-1.07],JAZF1,"Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,7:28116987
+rs1295685-<b>A</b>,"3 x 10-19",,0.1796,1.065,'-,[1.051-1.079],"IL13, TH2LCRR","Allergic disease (asthma, hay fever or eczema)","Eczema, allergic rhinitis, asthma",GCST009716,5:132660753
+rs1523643-<b>?</b>,"3 x 10-7",(AA),NR,'-,'-,'-,"FGF20, AC011586.2","Allergic rhinitis in asthma","allergic rhinitis, asthma",GCST002552,8:16931726
+rs2070902-<b>T</b>,"6 x 10-19",,0.2524,1.05,'-,[1.04-1.06],FCER1G,"Allergic rhinitis","allergic rhinitis",GCST006409,1:161217875
+rs111371454-<b>G</b>,"1 x 10-14",,0.2064,1.05,'-,[1.03-1.06],RTF1,"Allergic rhinitis","allergic rhinitis",GCST006409,15:41468419
+rs12509403-<b>C</b>,"1 x 10-15",,0.6785,1.0416667,'-,[1.03-1.05],NFKB1,"Allergic rhinitis","allergic rhinitis",GCST006409,4:102604193
+rs9648346-<b>G</b>,"3 x 10-14",,0.2158,1.05,'-,[1.03-1.06],JAZF1,"Allergic rhinitis","allergic rhinitis",GCST006409,7:28120494
+rs35350651-<b>C</b>,"6 x 10-14",,0.4945,1.04,'-,[1.03-1.05],ATXN2,"Allergic rhinitis","allergic rhinitis",GCST006409,12:111469628
+rs2519093-<b>T</b>,"3 x 10-16",,0.1957,1.05,'-,[1.04-1.07],ABO,"Allergic rhinitis","allergic rhinitis",GCST006409,9:133266456
+rs62257549-<b>G</b>,"2 x 10-13",,0.7989,1.0526316,'-,[1.03-1.06],DCAF1,"Allergic rhinitis","allergic rhinitis",GCST006409,3:51488660
+rs11677002-<b>T</b>,"7 x 10-13",,0.5486,1.0309278,'-,[1.03-1.04],AC104695.2,"Allergic rhinitis","allergic rhinitis",GCST006409,2:28391534
+rs35597970-<b>?</b>,"5 x 10-18",,NR,1.04,'-,[1.03-1.05],"MFSD13A, ACTR1A","Allergic rhinitis","allergic rhinitis",GCST006409,10:102469301
+rs2815765-<b>C</b>,"9 x 10-15",,0.6344,1.0416667,'-,[1.03-1.05],AL513166.1,"Allergic rhinitis","allergic rhinitis",GCST006409,1:72286547
+rs11671925-<b>G</b>,"6 x 10-13",,0.8255,1.0526316,'-,[1.04-1.06],"AC008738.6, SLC7A10","Allergic rhinitis","allergic rhinitis",GCST006409,19:33227147
+rs2461475-<b>C</b>,"4 x 10-11",,0.4727,1.03,'-,[1.02-1.04],SPPL3,"Allergic rhinitis","allergic rhinitis",GCST006409,12:120852371
+rs6738964-<b>T</b>,"2 x 10-10",,0.7618,1.0416667,'-,[1.03-1.05],DAW1,"Allergic rhinitis","allergic rhinitis",GCST006409,2:227874419
+rs10519067-<b>?</b>,"6 x 10-13",,NR,1.0752687,'-,[1.05-1.09],RORA,"Allergic rhinitis","allergic rhinitis",GCST006409,15:60776148
+rs138050288-<b>?</b>,"7 x 10-12",,NR,1.04,'-,[1.03-1.05],RERE,"Allergic rhinitis","allergic rhinitis",GCST006409,1:8400188
+rs7328203-<b>G</b>,"1 x 10-10",,0.4606,1.03,'-,[1.02-1.04],LINC02341,"Allergic rhinitis","allergic rhinitis",GCST006409,13:42414410
+rs11169225-<b>A</b>,"5 x 10-10",,0.1924,1.04,'-,[1.03-1.05],"AC025154.2, AQP2","Allergic rhinitis","allergic rhinitis",GCST006409,12:49951888
+rs141023293-<b>A</b>,"7 x 10-7",,0.0265,1.09,'-,[1.06-1.13],SIK3,"Allergic rhinitis","allergic rhinitis",GCST006409,11:116902201
+rs201428899-<b>?</b>,"5 x 10-6",,NR,1.0309278,'-,[1.02-1.04],MIER1,"Allergic rhinitis","allergic rhinitis",GCST006409,1:66975990
+rs34004019-<b>A</b>,"1 x 10-30",,0.7331,1.1235955,'-,[1.11-1.15],"HLA-DQA1, HLA-DQB1","Allergic rhinitis","allergic rhinitis",GCST006409,6:32658626
+rs950881-<b>G</b>,"2 x 10-30",,0.8525,1.1363636,'-,[1.11-1.15],"IL18R1, IL1RL1","Allergic rhinitis","allergic rhinitis",GCST006409,2:102316052
+rs5743618-<b>C</b>,"4 x 10-27",,0.7283,1.1111112,'-,[1.09-1.12],TLR1,"Allergic rhinitis","allergic rhinitis",GCST006409,4:38797027
+rs1438673-<b>C</b>,"3 x 10-26",,0.4962,1.08,'-,[1.07-1.10],"AC010468.2, WDR36","Allergic rhinitis","allergic rhinitis",GCST006409,5:111131801
+rs7936323-<b>A</b>,"7 x 10-24",,0.4806,1.08,'-,[1.06-1.09],"AP001189.2, EMSY","Allergic rhinitis","allergic rhinitis",GCST006409,11:76582714
+rs2428494-<b>A</b>,"7 x 10-19",,0.4226,1.08,'-,[1.06-1.09],HLA-B,"Allergic rhinitis","allergic rhinitis",GCST006409,6:31354420
+rs11644510-<b>C</b>,"2 x 10-17",,0.6291,1.0752687,'-,[1.05-1.09],"AC007220.1, CLEC16A","Allergic rhinitis","allergic rhinitis",GCST006409,16:11183501
+rs12939457-<b>T</b>,"2 x 10-17",,0.5594,1.0638298,'-,[1.05-1.09],ZPBP2,"Allergic rhinitis","allergic rhinitis",GCST006409,17:39875935
+rs148505069-<b>G</b>,"3 x 10-15",,0.333,1.07,'-,[1.05-1.08],"IL2, IL21","Allergic rhinitis","allergic rhinitis",GCST006409,4:122496409
+rs13395467-<b>A</b>,"1 x 10-14",,0.7176,1.0638298,'-,[1.05-1.09],LINC00299,"Allergic rhinitis","allergic rhinitis",GCST006409,2:8311368
+rs9775039-<b>A</b>,"2 x 10-14",,0.1642,1.08,'-,[1.06-1.10],"AL162384.1, GTF3AP1","Allergic rhinitis","allergic rhinitis",GCST006409,9:6177453
+rs2164068-<b>T</b>,"4 x 10-14",,0.5087,1.0638298,'-,[1.04-1.08],PLCL1,"Allergic rhinitis","allergic rhinitis",GCST006409,2:198079128
+rs2030519-<b>G</b>,"2 x 10-13",,0.4869,1.06,'-,[1.04-1.07],LPP,"Allergic rhinitis","allergic rhinitis",GCST006409,3:188402113
+rs11256017-<b>T</b>,"3 x 10-12",,0.1823,1.07,'-,[1.05-1.09],"LINC00709, AC044784.1","Allergic rhinitis","allergic rhinitis",GCST006409,10:9001956
+rs17294280-<b>G</b>,"6 x 10-12",,0.2484,1.07,'-,[1.05-1.09],SMAD3,"Allergic rhinitis","allergic rhinitis",GCST006409,15:67175947
+rs7824993-<b>A</b>,"2 x 10-10",,0.3718,1.05,'-,[1.04-1.07],AC034114.2,"Allergic rhinitis","allergic rhinitis",GCST006409,8:80350661
+rs9282864-<b>A</b>,"5 x 10-10",,0.6723,1.0638298,'-,[1.04-1.08],SULT1A1,"Allergic rhinitis","allergic rhinitis",GCST006409,16:28605987
+rs9687749-<b>T</b>,"2 x 10-9",,0.4405,1.06,'-,[1.04-1.09],"RAD50, AC116366.3","Allergic rhinitis","allergic rhinitis",GCST006409,5:132619885
+rs61977073-<b>G</b>,"6 x 10-9",,0.2228,1.06,'-,[1.04-1.08],TTC6,"Allergic rhinitis","allergic rhinitis",GCST006409,14:37682050
+rs6470578-<b>T</b>,"4 x 10-8",,0.2818,1.05,'-,[1.03-1.07],PVT1,"Allergic rhinitis","allergic rhinitis",GCST006409,8:127797311
+rs3787184-<b>A</b>,"5 x 10-8",,0.8124,1.0638298,'-,[1.04-1.08],NFATC2,"Allergic rhinitis","allergic rhinitis",GCST006409,20:51541298
+rs7717955-<b>C</b>,"4 x 10-32",,0.7333,1.0638298,'-,[1.05-1.08],IL7R,"Allergic rhinitis","allergic rhinitis",GCST006409,5:35862739
+rs63406760-<b>?</b>,"3 x 10-24",,NR,1.0638298,'-,[1.05-1.08],CDK2AP1,"Allergic rhinitis","allergic rhinitis",GCST006409,12:123258146
+rs1504215-<b>G</b>,"2 x 10-18",,0.6575,1.0526316,'-,[1.04-1.06],"BACH2, AL132996.1","Allergic rhinitis","allergic rhinitis",GCST006409,6:90296508
+rs28361986-<b>T</b>,"2 x 10-23",,0.8022,1.0638298,'-,[1.05-1.09],"SETP16, AP004609.4","Allergic rhinitis","allergic rhinitis",GCST006409,11:118822452

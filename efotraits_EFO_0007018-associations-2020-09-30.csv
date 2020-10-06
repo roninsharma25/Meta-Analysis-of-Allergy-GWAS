@@ -1,0 +1,16 @@
+﻿"Variant and risk allele",P-value,"P-value annotation",RAF,OR,Beta,CI,"Mapped gene","Reported trait",Trait(s),"Study accession",Location
+rs17023017-<b>G</b>,"7 x 10-7",,0.122,1.54,'-,'-,BMPR1B,"Hen's egg allergy","egg allergy measurement",GCST004977,4:95103943
+rs1243064-<b>A</b>,"8 x 10-8",,0.259,1.65,'-,'-,"SERPINB2, SERPINB7","Hen's egg allergy","egg allergy measurement",GCST004977,18:63846741
+rs12227569-<b>?</b>,"2 x 10-6",,NR,'-,'-,'-,GRIN2B,"Egg allergy (parent-of-origin effect)","egg allergy measurement, parental genotype effect measurement",GCST005725,12:13659623
+rs131025-<b>?</b>,"8 x 10-6",,NR,'-,'-,'-,TAFA5,"Egg allergy (parent-of-origin effect)","egg allergy measurement, parental genotype effect measurement",GCST005725,22:48779197
+rs1550286-<b>?</b>,"8 x 10-6",,NR,'-,'-,'-,"RPSAP49, AL451142.2","Egg allergy (parent-of-origin effect)","egg allergy measurement, parental genotype effect measurement",GCST005725,9:88232441
+rs1343795-<b>?</b>,"4 x 10-7",,NR,'-,'-,'-,ZNF652,"Egg allergy (maternal genetic effects)","egg allergy measurement, parental genotype effect measurement",GCST005728,17:49334880
+rs10471966-<b>?</b>,"3 x 10-6",,NR,'-,'-,'-,AC008892.1,"Egg allergy (maternal genetic effects)","egg allergy measurement, parental genotype effect measurement",GCST005728,5:56068744
+rs2303921-<b>?</b>,"3 x 10-6",,NR,'-,'-,'-,TAF1B,"Egg allergy (maternal genetic effects)","egg allergy measurement, parental genotype effect measurement",GCST005728,2:9918968
+rs6441713-<b>?</b>,"4 x 10-6",,NR,'-,'-,'-,"NDUFA4P2, MIR548AB","Egg allergy (maternal genetic effects)","egg allergy measurement, parental genotype effect measurement",GCST005728,3:103266621
+rs10124568-<b>?</b>,"9 x 10-6",,NR,'-,'-,'-,"AC068050.1, RPS15AP27","Egg allergy (maternal genetic effects)","egg allergy measurement, parental genotype effect measurement",GCST005728,9:107981011
+rs7717393-<b>?</b>,"1 x 10-6",,NR,'-,'-,'-,SGCD,"Egg allergy","egg allergy measurement",GCST002789,5:156326904
+rs5961136-<b>?</b>,"2 x 10-6",,NR,'-,'-,'-,ITIH6,"Egg allergy","egg allergy measurement",GCST002789,X:54776087
+rs250585-<b>?</b>,"4 x 10-6",,NR,'-,'-,'-,COG7,"Egg allergy","egg allergy measurement",GCST002789,16:23389755
+rs16823014-<b>?</b>,"4 x 10-6",,NR,'-,'-,'-,ABCB11,"Egg allergy","egg allergy measurement",GCST002789,2:168961203
+rs6498482-<b>?</b>,"5 x 10-6",,NR,'-,'-,'-,"U95743.1, ERCC4","Egg allergy","egg allergy measurement",GCST002789,16:13893862
