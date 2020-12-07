@@ -1,0 +1,6 @@
+﻿"Variant and risk allele",P-value,"P-value annotation",RAF,OR,Beta,CI,"Mapped gene","Reported trait",Trait(s),"Study accession",Location
+rs13403179-<b>C</b>,"8 x 10-8",,0.054,2.947,'-,[1.989-4.386],NBAS,"Recalcitrant atopic dermatitis","recalcitrant atopic dermatitis",GCST002880,2:15342628
+rs675531-<b>C</b>,"7 x 10-7",,0.113,2.193,'-,[1.610-2.994],THEMIS,"Recalcitrant atopic dermatitis","recalcitrant atopic dermatitis",GCST002880,6:127719694
+rs35766269-<b>A</b>,"1 x 10-7",,0.580,1.946,'-,[1.529-2.494],"LINC00709, AC044784.1","Recalcitrant atopic dermatitis","recalcitrant atopic dermatitis",GCST002880,10:8981852
+rs9540294-<b>G</b>,"1 x 10-8",,0.083,2.655,'-,[1.904-3.717],"STARP1, LGMNP1","Recalcitrant atopic dermatitis","recalcitrant atopic dermatitis",GCST002880,13:64989899
+rs3099143-<b>C</b>,"3 x 10-7",,0.137,2.126,'-,[1.594-2.841],SCAPER,"Recalcitrant atopic dermatitis","recalcitrant atopic dermatitis",GCST002880,15:76812515

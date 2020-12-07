@@ -1,0 +1,140 @@
+﻿"Variant and risk allele",P-value,"P-value annotation",RAF,OR,Beta,CI,"Mapped gene","Reported trait",Trait(s),"Study accession",Location
+rs13403179-<b>C</b>,"8 x 10-8",,0.054,2.947,'-,[1.989-4.386],NBAS,"Recalcitrant atopic dermatitis","recalcitrant atopic dermatitis",GCST002880,2:15342628
+rs675531-<b>C</b>,"7 x 10-7",,0.113,2.193,'-,[1.610-2.994],THEMIS,"Recalcitrant atopic dermatitis","recalcitrant atopic dermatitis",GCST002880,6:127719694
+rs35766269-<b>A</b>,"1 x 10-7",,0.580,1.946,'-,[1.529-2.494],"LINC00709, AC044784.1","Recalcitrant atopic dermatitis","recalcitrant atopic dermatitis",GCST002880,10:8981852
+rs9540294-<b>G</b>,"1 x 10-8",,0.083,2.655,'-,[1.904-3.717],"STARP1, LGMNP1","Recalcitrant atopic dermatitis","recalcitrant atopic dermatitis",GCST002880,13:64989899
+rs3099143-<b>C</b>,"3 x 10-7",,0.137,2.126,'-,[1.594-2.841],SCAPER,"Recalcitrant atopic dermatitis","recalcitrant atopic dermatitis",GCST002880,15:76812515
+rs7927894-<b>A</b>,"8 x 10-10",,0.36,1.22,'-,[1.15-1.30],"EMSY, AP001189.2","Atopic dermatitis","atopic eczema",GCST000374,11:76590272
+rs9368677-<b>G</b>,"1 x 10-17",,0.798,1.36,'-,[1.27-1.46],HLA-B,"Atopic dermatitis","atopic eczema",GCST001709,6:31304544
+rs13015714-<b>G</b>,"8 x 10-18",,0.412,1.27,'-,[1.20-1.34],IL18R1,"Atopic dermatitis","atopic eczema",GCST001709,2:102355405
+rs11236809-<b>G</b>,"3 x 10-6",,0.25,1.24,'-,[NR],LINC02757,"Atopic dermatitis","atopic eczema",GCST001709,11:76621166
+rs593982-<b>C</b>,"6 x 10-7",,0.53,1.23,'-,[NR],"KRT8P26, AP001266.2","Atopic dermatitis","atopic eczema",GCST001709,11:65745636
+rs1295686-<b>T</b>,"2 x 10-6",,0.30,1.22,'-,[NR],"IL13, TH2LCRR","Atopic dermatitis","atopic eczema",GCST001709,5:132660151
+rs176095-<b>T</b>,"8 x 10-20",,0.81,1.4,'-,[1.30-1.51],"PBX2, GPSM3","Atopic dermatitis","atopic eczema",GCST001709,6:32190542
+rs9469099-<b>G</b>,"5 x 10-19",,0.909,1.61,'-,[1.44-1.80],"TSBP1-AS1, TSBP1","Atopic dermatitis","atopic eczema",GCST001709,6:32341131
+rs878860-<b>G</b>,"2 x 10-22",,0.537,1.31,'-,[1.24-1.38],"OR10A3, NLRP10","Atopic dermatitis","atopic eczema",GCST001709,11:7946812
+rs2271404-<b>G</b>,"3 x 10-7",,0.238,1.17,'-,[1.10-1.25],MIR4435-2HG,"Atopic dermatitis","atopic eczema",GCST001709,2:111246290
+rs7613051-<b>A</b>,"6 x 10-21",,0.453,1.29,'-,[1.22-1.36],GLB1,"Atopic dermatitis","atopic eczema",GCST001709,3:33023847
+rs12634229-<b>G</b>,"2 x 10-19",,0.327,1.29,'-,[1.22-1.37],"AC048334.1, CCDC80","Atopic dermatitis","atopic eczema",GCST001709,3:112657461
+rs4722404-<b>G</b>,"8 x 10-9",,0.326,1.18,'-,[1.12-1.25],AC024028.1,"Atopic dermatitis","atopic eczema",GCST001709,7:3089155
+rs7815944-<b>A</b>,"4 x 10-7",,0.673,1.16,'-,[1.10-1.23],LINC00824,"Atopic dermatitis","atopic eczema",GCST001709,8:128415272
+rs10995251-<b>C</b>,"6 x 10-20",,0.511,1.28,'-,[1.22-1.36],"AC024598.1, AC067752.1","Atopic dermatitis","atopic eczema",GCST001709,10:62638706
+rs1444418-<b>A</b>,"2 x 10-7",,0.676,1.17,'-,[1.10-1.24],AC067751.1,"Atopic dermatitis","atopic eczema",GCST001709,10:62800710
+rs9923856-<b>A</b>,"6 x 10-6",,0.781,1.17,'-,[1.09-1.25],CLEC16A,"Atopic dermatitis","atopic eczema",GCST001709,16:11116558
+rs16999165-<b>T</b>,"2 x 10-8",,0.692,1.19,'-,[1.12-1.26],"AL133335.2, PFDN4","Atopic dermatitis","atopic eczema",GCST001709,20:54190682
+rs6661961-<b>T</b>,"9 x 10-11",,NR,'-,"0.338 unit increase",[0.24-0.44],"FLG-AS1, LCE5A","Atopic dermatitis","atopic eczema",GCST002100,1:152469813
+rs1295686-<b>A</b>,"2 x 10-17",,NR,1.383,'-,[1.283-1.49],"IL13, TH2LCRR","Atopic dermatitis","atopic eczema",GCST002100,5:132660151
+rs12153855-<b>T</b>,"3 x 10-14",,NR,1.581,'-,[1.405-1.779],"TNXB, AL662884.2","Atopic dermatitis","atopic eczema",GCST002100,6:32107027
+rs7130588-<b>G</b>,"4 x 10-13",,NR,1.29,'-,[1.2-1.38],"EMSY, AP001189.2","Atopic dermatitis","atopic eczema",GCST002100,11:76559639
+rs3126085-<b>A</b>,"6 x 10-12",,0.58,1.22,'-,[NR],FLG-AS1,"Atopic dermatitis","atopic eczema",GCST001106,1:152328341
+rs67766926-<b>?</b>,"7 x 10-9",(Shared),NR,'-,'-,'-,"REL, NONOP2","Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,2:60936446
+rs73510898-<b>?</b>,"8 x 10-8",(Shared),NR,'-,'-,'-,"ZGLP1, AC011511.1","Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,19:10305768
+rs9952991-<b>?</b>,"1 x 10-7",(Shared),NR,'-,'-,'-,"PTPN2, AP005482.2","Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,18:12780465
+rs1528473-<b>?</b>,"3 x 10-7",(Shared),NR,'-,'-,'-,"AC025272.1, AC011912.1","Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,15:55094545
+rs2059876-<b>?</b>,"4 x 10-7",(Shared),NR,'-,'-,'-,CHST8,"Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,19:33639430
+rs45616239-<b>?</b>,"1 x 10-6",(Shared),NR,'-,'-,'-,KIAA1109,"Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,4:122335010
+rs12001137-<b>?</b>,"2 x 10-6",(Shared),NR,'-,'-,'-,AL353595.1,"Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,9:11964872
+rs2218565-<b>?</b>,"2 x 10-6",(Shared),NR,'-,'-,'-,PRR5L,"Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,11:36314713
+rs7798970-<b>?</b>,"3 x 10-6",(Shared),NR,'-,'-,'-,STEAP2-AS1,"Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,7:90006910
+rs1012621-<b>?</b>,"5 x 10-6",(Shared),NR,'-,'-,'-,"AL121899.2, TGM3","Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,20:2325666
+rs11189494-<b>?</b>,"7 x 10-6",(Shared),NR,'-,'-,'-,R3HCC1L,"Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,10:98153375
+rs3736830-<b>?</b>,"9 x 10-6",(Shared),NR,'-,'-,'-,KPNA3,"Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,13:49732085
+rs11205006-<b>A</b>,"2 x 10-25",,NR,1.615,'-,[1.543-1.691],"FLG-AS1, LCE5A","Atopic dermatitis","atopic eczema",GCST002737,1:152467700
+rs1295686-<b>T</b>,"5 x 10-9",,NR,1.347,'-,[1.28-1.418],"IL13, TH2LCRR","Atopic dermatitis","atopic eczema",GCST002737,5:132660151
+rs41268896-<b>A</b>,"4 x 10-8",,NR,1.298,'-,[1.238-1.361],"AL662884.2, TNXB","Atopic dermatitis","atopic eczema",GCST002737,6:32102292
+rs148203517-<b>T</b>,"3 x 10-7",,NR,1.305,'-,[1.239-1.375],HLA-B,"Atopic dermatitis","atopic eczema",GCST002737,6:31356323
+rs176095-<b>G</b>,"3 x 10-7",,NR,1.3020833,'-,[1.18-1.44],"PBX2, GPSM3","Atopic dermatitis","atopic eczema",GCST002737,6:32190542
+rs17389644-<b>A</b>,"1 x 10-6",,NR,1.208,'-,[1.119–1.304],"IL21, IL2","Atopic dermatitis","atopic eczema",GCST002737,4:122576542
+rs909341-<b>G</b>,"8 x 10-10",,NR,1.316,'-,[1.205-1.429],"RTEL1-TNFRSF6B, TNFRSF6B","Atopic dermatitis","atopic eczema",GCST002737,20:63697389
+rs77199844-<b>?</b>,"2 x 10-17","(Atopic dermatitis)",NR,1.23,'-,[1.15–1.32],"LCE1E, LCE1F","Inflammatory skin disease","atopic eczema",GCST002740,1:152784619
+rs2212434-<b>?</b>,"3 x 10-12","(Atopic dermatitis)",NR,1.29,'-,[1.21–1.39],"EMSY, AP001189.2","Inflammatory skin disease","atopic eczema",GCST002740,11:76570549
+rs10888499-<b>?</b>,"5 x 10-25","(Atopic dermatitis)",NR,1.49,'-,[1.38–1.61],"LCE3E, CRCT1","Inflammatory skin disease","atopic eczema",GCST002740,1:152560266
+rs12144049-<b>?</b>,"3 x 10-30","(Atopic dermatitis)",NR,1.54,'-,[1.37–1.73],"LCE5A, FLG-AS1","Inflammatory skin disease","atopic eczema",GCST002740,1:152468434
+rs471144-<b>?</b>,"2 x 10-12","(Atopic dermatitis)",NR,1.54,'-,[1.37–1.73],"LCE5A, FLG-AS1","Inflammatory skin disease","atopic eczema",GCST002740,1:152481779
+rs55879323-<b>?</b>,"3 x 10-12","(Atopic dermatitis)",NR,'-,'-,'-,"PUDPP2, FLG-AS1","Inflammatory skin disease","atopic eczema",GCST002740,1:152196264
+rs13132933-<b>?</b>,"1 x 10-7","(Atopic dermatitis)",NR,'-,'-,'-,"RN7SL335P, KIAA1109","Inflammatory skin disease","atopic eczema",GCST002740,4:122089432
+rs6686734-<b>?</b>,"1 x 10-6","(Atopic dermatitis)",NR,'-,'-,'-,MFN2,"Inflammatory skin disease","atopic eczema",GCST002740,1:12008884
+rs8099996-<b>?</b>,"3 x 10-6","(Atopic dermatitis)",NR,'-,'-,'-,SMARCA4,"Inflammatory skin disease","atopic eczema",GCST002740,19:11063949
+rs77490194-<b>?</b>,"3 x 10-6","(Atopic dermatitis)",NR,'-,'-,'-,GRM4,"Inflammatory skin disease","atopic eczema",GCST002740,6:34085916
+rs1094732-<b>?</b>,"9 x 10-6","(Atopic dermatitis)",NR,'-,'-,'-,"FGF20, AC011586.2","Inflammatory skin disease","atopic eczema",GCST002740,8:16940614
+rs17728338-<b>?</b>,"4 x 10-38",(Opposed),NR,'-,'-,'-,"ANXA6, TNIP1","Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,5:151098757
+rs62176107-<b>?</b>,"1 x 10-34",(Opposed),NR,'-,'-,'-,"PRKRA, CHROMR","Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,2:178436244
+rs12130219-<b>?</b>,"1 x 10-23",(Opposed),NR,'-,'-,'-,"FLG-AS1, PUDPP2","Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,1:152189630
+rs380743-<b>?</b>,"4 x 10-22",(Opposed),NR,'-,'-,'-,RASIP1,"Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,19:48737757
+rs6596086-<b>?</b>,"2 x 10-18",(Opposed),NR,'-,'-,'-,"RAD50, AC116366.3","Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,5:132616530
+rs4363385-<b>?</b>,"2 x 10-15",(Opposed),NR,'-,'-,'-,"AL356867.2, AL356867.1","Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,1:153016845
+rs2533291-<b>?</b>,"3 x 10-10",(Opposed),NR,'-,'-,'-,PTPRN2,"Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,7:157712962
+rs9405490-<b>?</b>,"4 x 10-10",(Opposed),NR,'-,'-,'-,"AL512329.1, RN7SL352P","Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,6:1510423
+rs1384974-<b>?</b>,"4 x 10-8",(Opposed),NR,'-,'-,'-,"MTND5P15, LINC01208","Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,3:177009491
+rs6548123-<b>?</b>,"6 x 10-8",(Opposed),NR,'-,'-,'-,MYT1L,"Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,2:2221629
+rs9302874-<b>?</b>,"2 x 10-7",(Opposed),NR,'-,'-,'-,"LINC01993, AC087645.2","Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,17:78284479
+rs80312298-<b>?</b>,"6 x 10-7",(Opposed),NR,'-,'-,'-,MGMT,"Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,10:129683009
+rs10802516-<b>?</b>,"6 x 10-6",(Opposed),NR,'-,'-,'-,OR2W5,"Inflammatory skin disease","atopic eczema, psoriasis",GCST002740,1:247490110
+rs72702813-<b>T</b>,"1 x 10-33",,0.04056,2.06,'-,[1.83–2.31],"LCEP4, LCE3A","Atopic dermatitis","atopic eczema",GCST010090,1:152628378
+rs759382-<b>C</b>,"6 x 10-11",,0.2454,1.22,'-,[1.15–1.29],SLC9A4,"Atopic dermatitis","atopic eczema",GCST010090,2:102477754
+rs848-<b>T</b>,"8 x 10-28",,0.2067,1.4,'-,[1.32–1.49],"TH2LCRR, IL13","Atopic dermatitis","atopic eczema",GCST010090,5:132660808
+rs7110818-<b>A</b>,"3 x 10-16",,0.4392,1.28,'-,[1.21–1.36],"EMSY, AP001189.2","Atopic dermatitis","atopic eczema",GCST010090,11:76581531
+rs909341-<b>G</b>,"8 x 10-17",,0.774,1.2987013,'-,'-,"RTEL1-TNFRSF6B, TNFRSF6B","Atopic dermatitis","atopic eczema",GCST010090,20:63697389
+rs17389644-<b>A</b>,"1 x 10-8",,0.2396,1.19,'-,[1.12–1.26],"IL21, IL2","Atopic dermatitis","atopic eczema",GCST010090,4:122576542
+rs12295535-<b>A</b>,"8 x 10-13",,0.02376,1.68,'-,[1.46–1.93],PRR5L,"Atopic dermatitis","atopic eczema",GCST010090,11:36410474
+rs2041733-<b>A</b>,"3 x 10-15",,0.4528,1.23,'-,[1.17–1.29],CLEC16A,"Atopic dermatitis","atopic eczema",GCST010090,16:11135732
+rs16948048-<b>G</b>,"3 x 10-9",,0.3848,1.17,'-,[1.11–1.23],AC091180.3,"Atopic dermatitis","atopic eczema",GCST010090,17:49363104
+rs479844-<b>G</b>,"1 x 10-13",,0.56,1.14,'-,[1.10-1.18],"AP5B1, OVOL1","Atopic dermatitis","atopic eczema",GCST001363,11:65784486
+rs2164983-<b>A</b>,"7 x 10-9",,0.15,1.16,'-,[1.10-1.22],"AC243312.1, LINC01862","Atopic dermatitis","atopic eczema",GCST001363,19:8679120
+rs2897442-<b>C</b>,"4 x 10-8",,0.29,1.11,'-,[1.07-1.15],"AC004039.1, KIF3A","Atopic dermatitis","atopic eczema",GCST001363,5:132713335
+rs7000782-<b>A</b>,"1 x 10-6",,0.43,1.09,'-,[1.05-1.13],AC034114.2,"Atopic dermatitis","atopic eczema",GCST001363,8:80395915
+rs4821544-<b>C</b>,"6 x 10-6",,0.29,1.09,'-,[1.05-1.13],"NCF4, NCF4-AS1","Atopic dermatitis","atopic eczema",GCST001363,22:36862461
+rs3853601-<b>G</b>,"2 x 10-6",,0.12,1.13,'-,[1.08-1.19],"ATP6V1G2-DDX39B, DDX39B","Atopic dermatitis","atopic eczema",GCST001363,6:31531826
+rs993226-<b>G</b>,"5 x 10-9",,0.034,1.58,'-,[1.35-1.84],"AC093027.1, AC087888.1","Atopic march","childhood onset asthma, atopic eczema, atopic march",GCST003180,12:84492794
+rs9357733-<b>A</b>,"2 x 10-8",,0.808,1.27,'-,[1.17-1.38],EFHC1,"Atopic march","childhood onset asthma, atopic eczema, atopic march",GCST003180,6:52427338
+rs12081541-<b>C</b>,"9 x 10-11",,0.091,1.61,'-,[1.41-1.89],"LCE5A, FLG-AS1","Atopic march","childhood onset asthma, atopic eczema, atopic march",GCST003180,1:152468890
+rs17690965-<b>C</b>,"5 x 10-8",,0.264,1.24,'-,[1.15-1.33],"AC004039.1, KIF3A","Atopic march","childhood onset asthma, atopic eczema, atopic march",GCST003180,5:132694975
+rs479844-<b>G</b>,"4 x 10-10",,0.560,1.25,'-,[1.24-1.43],"AP5B1, OVOL1","Atopic march","childhood onset asthma, atopic eczema, atopic march",GCST003180,11:65784486
+rs2155219-<b>T</b>,"2 x 10-15",,0.487,1.33,'-,[1.24-1.43],"EMSY, AP001189.2","Atopic march","childhood onset asthma, atopic eczema, atopic march",GCST003180,11:76588150
+rs10445308-<b>C</b>,"5 x 10-8",,0.529,1.22,'-,[1.14-1.30],IKZF3,"Atopic march","childhood onset asthma, atopic eczema, atopic march",GCST003180,17:39781794
+rs7512552-<b>C</b>,"5 x 10-9","(EA, fixed effects)",0.51,1.0416667,'-,'-,"CIART, MRPS21","Atopic dermatitis","atopic eczema",GCST003184,1:150293284
+rs10199605-<b>G</b>,"4 x 10-8","(EA, fixed effects)",0.7,1.0416667,'-,'-,LINC00299,"Atopic dermatitis","atopic eczema",GCST003184,2:8354967
+rs4643526-<b>A</b>,"6 x 10-8","(EA, fixed effects)",0.19,1.05,'-,[1.03-1.07],PUS10,"Atopic dermatitis","atopic eczema",GCST003184,2:60957516
+rs112111458-<b>A</b>,"9 x 10-9","(EA, fixed effects)",0.87,1.0638298,'-,'-,"LINC01143, CD207","Atopic dermatitis","atopic eczema",GCST003184,2:70872975
+rs10214237-<b>T</b>,"3 x 10-14","(EA, fixed effects)",0.73,1.0638298,'-,'-,"IL7R, AC112204.3","Atopic dermatitis","atopic eczema",GCST003184,5:35883632
+rs6473227-<b>C</b>,"2 x 10-16","(EA, fixed effects)",0.39,1.0638298,'-,'-,AC034114.2,"Atopic dermatitis","atopic eczema",GCST003184,8:80373657
+rs6602364-<b>G</b>,"1 x 10-10","(EA, fixed effects)",0.45,1.05,'-,[1.03-1.06],"IL15RA, IL2RA","Atopic dermatitis","atopic eczema",GCST003184,10:5996890
+rs7127307-<b>T</b>,"2 x 10-18","(EA, fixed effects)",0.53,1.0638298,'-,'-,"LINC02098, ETS1","Atopic dermatitis","atopic eczema",GCST003184,11:128317488
+rs2143950-<b>T</b>,"2 x 10-15","(EA, fixed effects)",0.17,1.08,'-,[1.06-1.10],"PPP2R3C, FAM177A1","Atopic dermatitis","atopic eczema",GCST003184,14:35103151
+rs17881320-<b>T</b>,"1 x 10-7","(EA, fixed effects)",0.08,1.08,'-,[1.05-1.11],STAT3,"Atopic dermatitis","atopic eczema",GCST003184,17:42333221
+rs7512552-<b>T</b>,"1 x 10-7","(random effects)",0.49,'-,'-,NR,"CIART, MRPS21","Atopic dermatitis","atopic eczema",GCST003184,1:150293284
+rs112111458-<b>G</b>,"2 x 10-7","(random effects)",0.13,'-,'-,NR,"LINC01143, CD207","Atopic dermatitis","atopic eczema",GCST003184,2:70872975
+rs10214237-<b>C</b>,"2 x 10-10","(random effects)",0.27,'-,'-,NR,"IL7R, AC112204.3","Atopic dermatitis","atopic eczema",GCST003184,5:35883632
+rs6473227-<b>A</b>,"5 x 10-18","(random effects)",0.61,'-,'-,NR,AC034114.2,"Atopic dermatitis","atopic eczema",GCST003184,8:80373657
+rs6602364-<b>G</b>,"2 x 10-6","(random effects)",0.45,'-,'-,NR,"IL15RA, IL2RA","Atopic dermatitis","atopic eczema",GCST003184,10:5996890
+rs7127307-<b>C</b>,"1 x 10-20","(random effects)",0.47,'-,'-,NR,"LINC02098, ETS1","Atopic dermatitis","atopic eczema",GCST003184,11:128317488
+rs2143950-<b>T</b>,"9 x 10-10","(random effects)",0.17,'-,'-,NR,"PPP2R3C, FAM177A1","Atopic dermatitis","atopic eczema",GCST003184,14:35103151
+rs17881320-<b>T</b>,"3 x 10-6","(random effects)",0.08,'-,'-,NR,STAT3,"Atopic dermatitis","atopic eczema",GCST003184,17:42333221
+rs3917265-<b>C</b>,"9 x 10-7","(conditional on rs6419573)",0.53,1.06,'-,[1.03-1.08],IL1R1,"Atopic dermatitis","atopic eczema",GCST003184,2:102162001
+rs4705962-<b>T</b>,"7 x 10-12","(conditional on rs6419573)",0.28,1.1,'-,[1.07-1.13],"KIF3A, AC004039.1","Atopic dermatitis","atopic eczema",GCST003184,5:132693166
+rs2041733-<b>T</b>,"3 x 10-11","(EA, fixed effects)",NR,1.08,'-,[1.06-1.11],CLEC16A,"Atopic dermatitis","atopic eczema",GCST003184,16:11135732
+rs17389644-<b>A</b>,"4 x 10-6","(EA, fixed effects)",NR,1.07,'-,[1.04-1.10],"IL21, IL2","Atopic dermatitis","atopic eczema",GCST003184,4:122576542
+rs7927894-<b>T</b>,"3 x 10-9","(EA, fixed effects)",NR,1.08,'-,[1.05-1.10],"EMSY, AP001189.2","Atopic dermatitis","atopic eczema",GCST003184,11:76590272
+rs13015714-<b>G</b>,"2 x 10-12","(EA, fixed effects)",NR,1.1,'-,[1.07-1.14],IL18R1,"Atopic dermatitis","atopic eczema",GCST003184,2:102355405
+rs479844-<b>?</b>,"2 x 10-18","(EA, fixed effects)",NR,1.1111112,'-,[1.09-1.14],"AP5B1, OVOL1","Atopic dermatitis","atopic eczema",GCST003184,11:65784486
+rs2164983-<b>A</b>,"2 x 10-11","(EA, fixed effects)",NR,1.12,'-,[1.08-1.15],"AC243312.1, LINC01862","Atopic dermatitis","atopic eczema",GCST003184,19:8679120
+rs2897442-<b>C</b>,"1 x 10-10","(EA, fixed effects)",NR,1.09,'-,[1.06-1.12],"AC004039.1, KIF3A","Atopic dermatitis","atopic eczema",GCST003184,5:132713335
+rs6010620-<b>G</b>,"2 x 10-9","(EA, fixed effects)",NR,1.09,'-,[1.06-1.13],"RTEL1-TNFRSF6B, RTEL1","Atopic dermatitis","atopic eczema",GCST003184,20:63678486
+rs2228145-<b>C</b>,"5 x 10-10","(EA, fixed effects)",NR,1.08,'-,[1.05-1.11],IL6R,"Atopic dermatitis","atopic eczema",GCST003184,1:154454494
+rs61813875-<b>G</b>,"6 x 10-29","(EA, fixed effects)",0.02,1.61,'-,[1.48–1.75],"CRCT1, LCE3E","Atopic dermatitis","atopic eczema",GCST003184,1:152564174
+rs10791824-<b>G</b>,"2 x 10-19","(EA, fixed effects)",0.57,1.12,'-,[1.09–1.15],OVOL1,"Atopic dermatitis","atopic eczema",GCST003184,11:65791795
+rs12188917-<b>C</b>,"4 x 10-17","(EA, fixed effects)",0.21,1.14,'-,[1.10–1.17],TH2LCRR,"Atopic dermatitis","atopic eczema",GCST003184,5:132655393
+rs6419573-<b>T</b>,"2 x 10-13","(EA, fixed effects)",0.26,1.11,'-,[1.08–1.14],"IL18R1, SDR42E1P5","Atopic dermatitis","atopic eczema",GCST003184,2:102410643
+rs2212434-<b>T</b>,"5 x 10-13","(EA, fixed effects)",0.45,1.09,'-,[1.07–1.12],"EMSY, AP001189.2","Atopic dermatitis","atopic eczema",GCST003184,11:76570549
+rs4809219-<b>A</b>,"7 x 10-13","(EA, fixed effects)",0.73,1.1111112,'-,'-,"RTEL1-TNFRSF6B, RTEL1","Atopic dermatitis","atopic eczema",GCST003184,20:63671762
+rs2918307-<b>G</b>,"5 x 10-12","(EA, fixed effects)",0.16,1.12,'-,[1.08–1.16],"AC243312.1, LINC01862","Atopic dermatitis","atopic eczema",GCST003184,19:8679458
+rs4713555-<b>G</b>,"5 x 10-9","(EA, fixed effects)",0.73,1.098901,'-,'-,"HLA-DQA1, HLA-DRB1","Atopic dermatitis","atopic eczema",GCST003184,6:32607747
+rs2944542-<b>G</b>,"1 x 10-6","(EA, fixed effects)",0.59,1.0638298,'-,'-,"AC024598.1, AC067752.1","Atopic dermatitis","atopic eczema",GCST003184,10:62610240
+rs145809981-<b>C</b>,"2 x 10-6","(EA, fixed effects)",0.86,1.098901,'-,'-,MICB,"Atopic dermatitis","atopic eczema",GCST003184,6:31498440
+rs2592555-<b>T</b>,"9 x 10-7","(EA, fixed effects)",0.73,1.0752687,'-,'-,PRR5L,"Atopic dermatitis","atopic eczema",GCST003184,11:36350207
+rs12144049-<b>C</b>,"1 x 10-16",,0.279,1.39,'-,[NR],"LCE5A, FLG-AS1","Atopic dermatitis","atopic eczema",GCST002844,1:152468434
+rs6720763-<b>C</b>,"4 x 10-8",,0.18,1.29,'-,[NR],"XIRP2-AS1, XIRP2","Atopic dermatitis","atopic eczema",GCST002844,2:167135776
+rs3091307-<b>A</b>,"4 x 10-7",,0.228,1.24,'-,[NR],TH2LCRR,"Atopic dermatitis","atopic eczema",GCST002844,5:132653444
+rs10738626-<b>T</b>,"1 x 10-8",,0.506,1.23,'-,[NR],"AL157937.1, DMRTA1","Atopic dermatitis","atopic eczema",GCST002844,9:22373458
+rs1665050-<b>A</b>,"1 x 10-7",,0.252,1.25,'-,[NR],RNF111,"Atopic dermatitis","atopic eczema",GCST002844,15:59001406
+rs4796793-<b>C</b>,"8 x 10-6",,0.748,1.08,'-,[NR],"STAT3, CAVIN1","Atopic dermatitis","atopic eczema",GCST002844,17:42390192
